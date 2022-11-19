@@ -19,6 +19,6 @@ fastify.register(userRoutes, { prefix: "/users" })
 
 fastify.register(poolRoutes, { prefix: "/pools" })
 
-fastify.listen({ port: 3333 }, (err, address) => {
+fastify.listen({ port: 3333, host: '0.0.0.0' }, (err, address) => {
     if (err) throw err
 })

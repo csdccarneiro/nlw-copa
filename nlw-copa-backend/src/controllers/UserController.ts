@@ -1,6 +1,7 @@
 import fastify, { FastifyRequest, FastifyReply } from 'fastify'
 import z from 'zod'
 import { prisma } from "../lib/prisma"
+import axios from 'axios'
 
 const UserController = {
 
@@ -24,13 +25,16 @@ const UserController = {
 
         const { access_token  } = createUserBody.parse(request.body)    
 
-        const userResponse = await fetch('https://www.googleapis.com/oauth2/v2/userinfo', {
+        const request_auth_token = axios.create({
+            baseURL: 'https://www.googleapis.com',
             headers: {
                 Authorization: `Bearer ${access_token}`
             }
         })
 
-        const userData = await userResponse.json()
+        const userResponse = await request_auth_token.get('/oauth2/v2/userinfo')
+
+        const userData = await userResponse.data
 
         const userInfoSchema = z.object({ 
             id: z.string(),

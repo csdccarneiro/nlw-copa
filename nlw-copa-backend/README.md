@@ -31,7 +31,7 @@ Esse é o back-end do **NLW Copa**, aqui você pode gerenciar as rotas e persona
 ## 📝	 Diagrama
 
 <p align="center">
-    <img alt="ERD" src="nlw-copa-backend/prisma/ERD.svg" width="40%" />
+    <img alt="ERD" src="prisma/ERD.svg" width="40%" />
 </p>
 
 ## ✨ Features

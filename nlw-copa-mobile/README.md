@@ -1,5 +1,5 @@
 <div align="center">
-   <img alt="NLW Copa" src="nlw-copa-frontend/src/assets/logo.svg" width="40%"/>
+   <img alt="NLW Copa" src="../nlw-copa-frontend/src/assets/logo.svg" width="40%"/>
 </div>
 <br/>
 <div align="center">
@@ -28,9 +28,9 @@
 Esse é o app mobile do **NLW Copa**, aqui você pode gerenciar os bolões, palpitar nos jogos e compartilhar com seus amigos
 
 <div align="center">
-   <img src="assets/screen_mobile_auth.jpg" alt="Page Authentication NLW Copa - Application Mobile" width="300" height="590" />
-   <img src="assets/screen_mobile_create_pool.jpg" alt="Page Create Pool NLW Copa - Application Mobile" width="300" height="590" />
-   <img src="assets/screen_mobile_search_pool.jpg" alt="Page Search Pool NLW Copa - Application Mobile" width="300" height="590" />
+   <img src="../assets/screen_mobile_auth.jpg" alt="Page Authentication NLW Copa - Application Mobile" width="300" height="590" />
+   <img src="../assets/screen_mobile_create_pool.jpg" alt="Page Create Pool NLW Copa - Application Mobile" width="300" height="590" />
+   <img src="../assets/screen_mobile_search_pool.jpg" alt="Page Search Pool NLW Copa - Application Mobile" width="300" height="590" />
 </div>
 
 ## ✨ Features

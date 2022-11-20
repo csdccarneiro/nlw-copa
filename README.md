@@ -33,9 +33,9 @@ O projeto destina-se a criar um ecossistema [**React**](https://pt-br.reactjs.or
 ### Aplicação Mobile
 
 <div align="center">
-   <img src="assets/screen_mobile_auth.jpg" alt="Page Authentication NLW Copa - Application Mobile" width="280" height="550" />
-   <img src="assets/screen_mobile_create_pool.jpg" alt="Page Create Pool NLW Copa - Application Mobile" width="280" height="550" />
-   <img src="assets/screen_mobile_search_pool.jpg" alt="Page Search Pool NLW Copa - Application Mobile" width="280" height="550" />
+   <img src="assets/screen_mobile_auth.jpg" alt="Page Authentication NLW Copa - Application Mobile" width="230" height="480" />
+   <img src="assets/screen_mobile_create_pool.jpg" alt="Page Create Pool NLW Copa - Application Mobile" width="230" height="480" />
+   <img src="assets/screen_mobile_search_pool.jpg" alt="Page Search Pool NLW Copa - Application Mobile" width="230" height="480" />
 </div>
 
 ## ✨ Features

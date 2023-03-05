@@ -8,7 +8,7 @@
    </a>
    <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/csdccarneiro/nlw-copa">
    <img alt="Language Count" src="https://img.shields.io/github/languages/count/csdccarneiro/nlw-copa">
-   <a href="https://github.com/mathrb22/nlw-copa-ignite/commits/main">
+   <a href="https://github.com/csdccarneiro/nlw-copa/commits/main">
       <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/csdccarneiro/nlw-copa">
    </a>
 </div>
